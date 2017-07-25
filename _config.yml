@@ -1,0 +1,34 @@
+typography_spectrum: 0.5268542493212194
+color:
+  brandStrength: 0.8845294989532063
+  lightness: 0.48061853651399955
+  saturation: 0.457131784893849
+  rhythmicContrast: 0.24056200654079934
+  brandColors:
+    - '#354242'
+    - '#ACEBAE'
+    - '#FFFF9D'
+    - '#C9DE55'
+    - '#7D9100'
+layout_spectrum: 0.35060272958627575
+name: ' '
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Taller
+    id: bf8fd55c-3733-4152-8aa6-cbd7d777a428
+    type: content
+  - name: Contacto
+    id: ba54294d-9951-4b9f-916e-c1395ae17eb0
+    type: content
+title: Ruth Obermayer - Luthier
+content: []
+description: Violines Exquisitos
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4d4645e-6bb9-41e8-a123-f6d54c2e40da.jpg
+github: true
